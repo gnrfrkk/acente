@@ -1,8 +1,8 @@
 {
-  "version":  "1.1.2",
-    "package_url":  "https://github.com/gnrfrkk/acente/releases/download/v1.1.1/sigorta_acente_1.1.1.zip",
-    "sha256":  "15845c0fab09f8845201f9530150f4ecdac42874cc8c5c6a35a34ea26d03def2",
-    "notes":  "Yeni surum yayinlandi."
+  "version": "1.1.2",
+  "package_url": "https://github.com/gnrfrkk/acente/releases/download/v1.1.1/sigorta_acente_1.1.1.zip",
+  "sha256": "15845c0fab09f8845201f9530150f4ecdac42874cc8c5c6a35a34ea26d03def2",
+  "notes": "Yeni surum yayinlandi.",
   "announcement": {
     "id": "2026-05-29-003",
     "title": "Duyuru",
