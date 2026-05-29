@@ -1,11 +1,18 @@
 {
+{
   "version": "1.1.1",
-  "package_url": "https://site.com/sigorta-acente.zip",
-  "notes": "Yeni güncelleme yayınlandı.",
+  "package_url": "https://example.com/sigorta-acente/sigorta_acente_1.1.1.zip",
+  "sha256": "PAKET_SHA256_DEGERI",
+  "notes": "Kisa guncelleme notu.",
   "announcement": {
     "id": "2026-05-29-001",
-    "title": "Bakım Duyurusu",
-    "message": "Pazar günü kısa süreli bakım yapılacaktır.",
-    "level": "info"
+    "title": "Duyuru",
+    "message": "Yeni duyuru metninizi buraya yazin.",
+    "level": "info",
+    "starts_at": "2026-05-29",
+    "ends_at": "",
+    "link_url": "",
+    "repeat": false
   }
+}  }
 }
