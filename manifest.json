@@ -1,5 +1,4 @@
 {
-{
   "version": "1.1.1",
   "package_url": "https://example.com/sigorta-acente/sigorta_acente_1.1.1.zip",
   "sha256": "PAKET_SHA256_DEGERI",
@@ -14,4 +13,4 @@
     "link_url": "",
     "repeat": false
   }
-}  
+}
