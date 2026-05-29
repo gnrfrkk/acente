@@ -1,16 +1,6 @@
 {
-  "version": "1.1.1",
-  "package_url": "https://example.com/sigorta-acente/sigorta_acente_1.1.1.zip",
-  "sha256": "PAKET_SHA256_DEGERI",
-  "notes": "Kisa guncelleme notu.",
-  "announcement": {
-    "id": "2026-05-29-002",
-    "title": "Duyuru",
-    "message": "İyi Bayramlar Dileriz.",
-    "level": "info",
-    "starts_at": "2026-05-29",
-    "ends_at": "",
-    "link_url": "",
-    "repeat": false
-  }
+    "version":  "1.1.2",
+    "package_url":  "https://github.com/gnrfrkk/acente/releases/download/v1.1.1/sigorta_acente_1.1.1.zip",
+    "sha256":  "15845c0fab09f8845201f9530150f4ecdac42874cc8c5c6a35a34ea26d03def2",
+    "notes":  "Yeni surum yayinlandi."
 }
