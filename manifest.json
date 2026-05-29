@@ -1,0 +1,11 @@
+{
+  "version": "1.1.1",
+  "package_url": "https://site.com/sigorta-acente.zip",
+  "notes": "Yeni güncelleme yayınlandı.",
+  "announcement": {
+    "id": "2026-05-29-001",
+    "title": "Bakım Duyurusu",
+    "message": "Pazar günü kısa süreli bakım yapılacaktır.",
+    "level": "info"
+  }
+}
