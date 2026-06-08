@@ -1,10 +1,10 @@
 {
-  "version": "1.1.6",
-  "package_url": "https://github.com/gnrfrkk/acente/releases/download/v1.1.6/sigorta_acente_1.1.6.zip",
-  "sha256": "f6048803651f9660706ee88fa257056f86e3ab5e0a529580efe680f13d695f38",
-  "notes": "Yeni surum yayinlandi.",
-  "installer_url": "https://github.com/gnrfrkk/acente/releases/download/v1.1.6/GNRSOFT_Sigorta_Acente_Setup_1.1.6.exe",
-  "installer_sha256": "f67706a648ff6b067002554bee79c293d53454bbef1e229bb0eeeceb555a2552",
+    "version":  "1.1.8",
+    "package_url":  "https://github.com/gnrfrkk/acente/releases/download/v1.1.8/sigorta_acente_1.1.8.zip",
+    "sha256":  "0779b532b34cf0928948fe44192f2103f4faa943faf12108238b2687593d146c",
+    "notes":  "Yeni surum yayinlandi.",
+    "installer_url":  "https://github.com/gnrfrkk/acente/releases/download/v1.1.8/GNRSOFT_Sigorta_Acente_Setup_1.1.8.exe",
+    "installer_sha256":  "1156dcb2bc78a2b9a2583c1817feb9e91e204a3e634883478005c382757b5922",
   "announcement": {
     "id": "2026-05-29-004",
     "title": "Duyuru",
