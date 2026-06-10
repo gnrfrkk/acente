@@ -1,9 +1,9 @@
 {
     "version":  "1.1.8",
-    "package_url":  "https://github.com/gnrfrkk/acente/releases/download/v1.1.8/sigorta_acente_1.1.8.zip",
+    "package_url":  "https://github.com/gnrfrkk/acente/releases/download/V1.1.8/sigorta_acente_1.1.8.zip",
     "sha256":  "37332c13341a284447f0bb08f255241cdf759e1ee2880b44e0723ad2229f7c51",
     "notes":  "Kar hesaplamalari, rapor ciktilari ve police dosyasi alani guncellendi.",
-    "installer_url":  "https://github.com/gnrfrkk/acente/releases/download/v1.1.8/GNRSOFT_Sigorta_Acente_Setup_1.1.8.exe",
+    "installer_url":  "https://github.com/gnrfrkk/acente/releases/download/V1.1.8/GNRSOFT_Sigorta_Acente_Setup_1.1.8.exe",
     "installer_sha256":  "2f3aa9b6830b1e80216431a3868c3ba7879d8c31d2ecdbe739b5a205bc630aac",
   "announcement": {
     "id": "2026-05-29-004",
