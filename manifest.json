@@ -4,11 +4,11 @@
     "sha256":  "33c8e145b5733c2a8b8948a2a5e1fb0071d07f03422a4c9123e03d45866f7318",
     "notes":  "Yeni surum yayinlandi.",
     "installer_url":  "https://github.com/gnrfrkk/acente/releases/download/v1.1.23/GNRSOFT_Sigorta_Acente_Setup_1.1.23.exe",
-    "installer_sha256":  "4f8842594f487673851452b2d210678e75a44ffb77f15e27b19fafd703fdf5b7"
+    "installer_sha256":  "4f8842594f487673851452b2d210678e75a44ffb77f15e27b19fafd703fdf5b7",
     "announcement":  {
                          "id":  "2026-08-03-001",
-                         "title":  "Yeni sürüm 1.1.23",
-                         "message":  "Yeni sürüm yayınlandı.",
+                         "title":  "Yeni surum 1.1.23",
+                         "message":  "Yeni surum yayinlandi.",
                          "level":  "info",
                          "starts_at":  "2026-08-03",
                          "ends_at":  "",
