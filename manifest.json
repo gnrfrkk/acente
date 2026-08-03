@@ -1,19 +1,18 @@
 {
-  {
-    "version":  "1.1.18",
-    "package_url":  "https://github.com/gnrfrkk/acente/releases/download/v1.1.18/sigorta_acente_1.1.18.zip",
-    "sha256":  "0816afefc33d01f6ac65d2315b87a2d63f6ce6213d390eb929d08a4f008a0c21",
-    "notes":  "Yeni surum yayinlandi.",
-    "installer_url":  "https://github.com/gnrfrkk/acente/releases/download/v1.1.12/GNRSOFT_Sigorta_Acente_Setup_1.1.12.exe",
-    "installer_sha256":  "849a33ccffcc6780185e75878449e7e944358f09e48da39b5c3fcd546faa680f",
-  "announcement": {
-    "id": "2026-05-29-004",
-    "title": "Duyuru",
-    "message": "görsel iyileştirmeler yapıldı",
-    "level": "info",
-    "starts_at": "2026-05-29",
-    "ends_at": "",
-    "link_url": "",
-    "repeat": false
-  }
+    "version":  "1.1.22",
+    "package_url":  "https://github.com/gnrfrkk/acente/releases/download/v1.1.22/sigorta_acente_1.1.22.zip",
+    "sha256":  "9b20b3ed1c8f591752ef613aee51e76a49ffd021d7e3d9b5a3d89cd2b5b918f0",
+    "notes":  "Yeni sürüm yayınlandı.",
+    "installer_url":  "https://github.com/gnrfrkk/acente/releases/download/v1.1.22/GNRSOFT_Sigorta_Acente_Setup_1.1.22.exe",
+    "installer_sha256":  "9b6cb4427b5ef8fc98b00a574685c47e8e496c1e248fe1495e8e1b5d236a79c6",
+    "announcement":  {
+                         "id":  "2026-08-03-001",
+                         "title":  "Yeni sürüm 1.1.22",
+                         "message":  "Yeni sürüm yayınlandı.",
+                         "level":  "info",
+                         "starts_at":  "2026-08-03",
+                         "ends_at":  "",
+                         "link_url":  "",
+                         "repeat":  false
+                     }
 }
