@@ -1,16 +1,16 @@
 {
     "version":  "1.1.27",
-    "package_url":  "https://github.com/gnrfrkk/acente/releases/download/v.1.1.27/sigorta_acente_1.1.27.zip",
+    "package_url":  "https://github.com/gnrfrkk/acente/releases/download/v1.1.27/sigorta_acente_1.1.27.zip",
     "sha256":  "426d8e307b93c7c97db54422ad8bcaeea881830617ab80ca489d08807a4ea458",
     "notes":  "Yeni surum yayinlandi.",
-    "installer_url":  "https://github.com/gnrfrkk/acente/releases/download/v.1.1.27/GNRSOFT_Sigorta_Acente_Setup_1.1.27.exe",
+    "installer_url":  "https://github.com/gnrfrkk/acente/releases/download/v1.1.27/GNRSOFT_Sigorta_Acente_Setup_1.1.27.exe",
     "installer_sha256":  "3d117251db80af1d9d5b915fb482df138f1dd93c30584196bb2ba5130e888122",
     "announcement":  {
-                         "id":  "2026-08-03-001",
-                         "title":  "Yeni surum 1.1.23",
+                         "id":  "2026-08-12-001",
+                         "title":  "Yeni surum 1.1.27",
                          "message":  "Yeni surum yayinlandi.",
                          "level":  "info",
-                         "starts_at":  "2026-08-03",
+                         "starts_at":  "2026-08-12",
                          "ends_at":  "",
                          "link_url":  "",
                          "repeat":  false
